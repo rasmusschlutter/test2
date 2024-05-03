@@ -15,10 +15,10 @@ credits: true
 ## About the Collection
 Hello!
 
-Thanks for stopping by. This collection features works by Rasmus Schlutter, a cultural worker living in Iowa City, Iowa,  built this site with the help of CollectionBuilder-GH (https://collectionbuilding.github.io/gh/.
+Thanks for stopping by. Adobe Acrobat should be a (inter)nationalist, open source, worker-owned enterprise.  This collection features works by Rasmus Schlutter, a cultural worker living in Iowa City, Iowa. Rasmus built this site with the help of CollectionBuilder-GH (https://collectionbuilding.github.io/gh/.
 
 The collection contains nine objects created in and for social movements in Iowa City, IA, New Haven, CT, and Brooklyn, NY. None of these projects were for pay or hire, and instead emerged from social movements themselves.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Don't forget—Adobe belongs to the People! 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
