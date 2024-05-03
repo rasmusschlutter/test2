@@ -15,12 +15,9 @@ credits: true
 ## About the Collection
 Hello!
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Thanks for stopping by. This collection features works by Rasmus Schlutter, a cultural worker living in Iowa City, Iowa,  built this site with the help of CollectionBuilder-GH (https://collectionbuilding.github.io/gh/.
 
-- a CSV of collection metadata
-- a folder of JPG, PNG images or PDF documents
-
-The repository features nince objects from the personal collection of Rasmus Schlutter. Rasmus Schlutter is a cultural worker living in Iowa City, Iowa.
+The collection contains nine objects created in and for social movements in Iowa City, IA, New Haven, CT, and Brooklyn, NY. None of these projects were for pay or hire, and instead emerged from social movements themselves.
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
